@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Sophia Tota! 🪻
 
-<!--
-**sophiatota/sophiatota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu tenho 16 anos e atualmente estou fazendo o curso de **Desenvolvimento de Sistemas** na
+[Escola e Faculdade de Tecnologia SENAI Gaspar Ricardo Júnior] (https://www.linkedin.com/company/senai-santa-ros%C3%A1lia/)
+----
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Experiências e projetos 📽️:
+- Participação em hackathon de empresas de TI
+- Desenvolvimento de criatividade e resolução de problemas.
+- Atuação como monitora em buffet infantil.
+- Acompanhamento e organização de atividades infantis.
+- Auxílio na organização de eventos esportivos
+- Trabalho em equipe e apoio na realização de eventos.
+
+  
